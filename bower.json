@@ -1,0 +1,16 @@
+{
+  "name": "io-mattross-mwa",
+  "version": "0.0.1",
+  "authors": [
+    "Matt Ross"
+  ],
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "http://mwa.mattross.io/",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "font-awesome": "~4.0.3",
+    "marionette": "~1.8.5"
+  }
+}
