@@ -34,7 +34,6 @@ module.exports = function(grunt) {
 				},
 				files: [
 					'!private/templates/**/*.swp',
-					'index.html',
 					'private/templates/**/*.ejs'
 				],
 				tasks: ['jst']
