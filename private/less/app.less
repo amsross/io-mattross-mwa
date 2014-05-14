@@ -11,5 +11,24 @@
 	.clearfix();
 }
 
+.videos {
+	.video {
+		h4 {
+			min-height: 4em;
+		}
+		img {
+			background-color: #000;
+		}
+		&.video-vimeo {
+			img {
+				padding: 27px 0;
+			}
+		}
+		&.video-youtube {
+			img {}
+		}
+	}
+}
+
 @media (max-width: 767px) {}
 @media (min-width: 768px) {}
